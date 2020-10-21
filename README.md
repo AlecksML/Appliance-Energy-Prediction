@@ -1,6 +1,6 @@
 # Prediction of Energy consumption
 ## Description:
-*   The goal of this project is to predict the Energy consumption of electrical appliances based on temperature and humidity inside and outside the house together with general weather conditions as recorded near the airport (from Chievres weather station, Belgium) in Wh(Watt-hour).
+*   The goal of this project is to assess the Energy consumption of electrical appliances based on temperature and humidity inside and outside the house together with general weather conditions as recorded near the airport (from Chievres weather station, Belgium) in Wh(Watt-hour). The findings would give a clear picture of appliances which consume energy most.
 
 ## Libraries used:
 * numpy
